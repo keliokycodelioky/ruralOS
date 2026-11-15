@@ -1,0 +1,2 @@
+# ruralOS
+the linux distro.
