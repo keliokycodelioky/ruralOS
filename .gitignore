@@ -1,0 +1,13 @@
+*.iso
+*.img
+build/
+chroot/
+custom-root/
+custom-disk/
+source-disk/
+.cache/
+.#**.iso
+*.img
+build/
+chroot/
+.cache/
